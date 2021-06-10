@@ -1,0 +1,108 @@
+
+header .logo h2{
+    text-transform: uppercase;
+    font-size: 24px;
+    padding-left: 10px;
+    padding-top: 12px;
+}
+header .logo img{
+    margin-top: 12px;
+    width: 20px;
+    height: 25px;
+}
+header .logo{
+    width: 20%;
+    display: flex;
+    background: #ffffff;
+    justify-content: center;
+}
+header .right{
+    width: 80%;
+    background: #444444;
+}
+header .right nav{
+    margin: 0 auto;
+}
+header .right ul{
+    justify-content: space-around;
+    display: flex;
+    padding-left: 111px;
+    padding-right: 111px;
+}
+header .right ul li{
+    list-style: none;
+    margin: 18px 54px;
+    color: #ffffff;
+    font-size: 18px;
+}
+header .all{
+    margin-bottom: 20px;
+    display: flex;
+}
+header .check p{
+    font-size: 15px;
+}
+header .check h2{
+    font-size: 24px;
+}
+header .check{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+header .white{
+    background: #ffffff;
+}
+header .row{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 75px;
+    margin-bottom: 20px;
+}
+header .row h3{
+    padding-top: 30px;
+    font-size: 16px;
+    color: #0C1014;
+}
+header .row p{
+    color: #515759;
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+header .row button{
+    background: #1890FF;
+    color: #ffffff;
+    padding: 3px 18px;
+    border: none;
+    border-radius: 5px;
+}
+.next .row{
+    background: #ffffff;
+}
+.next .first p{
+    width: 165px;
+    color: #515759;
+    font-size: 11px;
+}
+.next .second p{
+    width: 116px;
+    color: #515759;
+    font-size: 11px;
+}
+.next .row h2{
+    color: #0C1014;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
